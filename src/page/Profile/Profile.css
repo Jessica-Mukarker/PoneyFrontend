@@ -1,0 +1,42 @@
+.profile-container {
+    background-color: #feeae9;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .profile-header {
+    margin-bottom: 20px;
+  }
+  
+  .profile-title {
+    color: white;
+    text-align: center;
+  }
+  
+  .profile-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-picture img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .profile-details {
+    margin-left: 20px;
+  }
+  
+  .profile-name {
+    color: #212932;
+    margin-bottom: 10px;
+  }
+  
+  .profile-bio {
+    color: white;
+    font-size: 14px;
+  }
+  
